@@ -1,1 +1,14 @@
+# Node dependencies
 node_modules/
+
+# Environment variables (secrets, API keys, passwords)
+.env
+
+# Logs & temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
